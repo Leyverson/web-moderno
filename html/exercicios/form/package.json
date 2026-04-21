@@ -1,0 +1,16 @@
+{
+  "name": "web-moderno",
+  "version": "1.0.0",
+  "description": "> Dica para iniciantes que compraram o curso **Web Moderno** e estão perdidos com a quantidade de conteúdo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.3"
+  }
+}
